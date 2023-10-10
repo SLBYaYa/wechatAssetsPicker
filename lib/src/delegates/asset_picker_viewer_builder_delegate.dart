@@ -132,7 +132,9 @@ abstract class AssetPickerViewerBuilderDelegate<Asset, Path> {
 
   /// Getter for the current asset.
   /// 当前资源的Getter
-  Asset get currentAsset => previewAssets.elementAt(currentIndex);
+  Asset get currentAsset => (currentAssetTemp != null ? currentAssetTemp! : previewAssets.elementAt(currentIndex));
+
+  Asset? currentAssetTemp;
 
   /// Height for bottom preview widget.
   /// 底栏预览部件的高度
