@@ -2,7 +2,6 @@
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
     <CLASSES>
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player_android-2.4.10" />
-      <root url="file://$USER_HOME$/.pub-cache/git/photoManager-d76f8ffc4587240f6fd2b095e6955d9ad003284f" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player-2.7.2" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player_web-2.1.1" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path_provider_windows-2.2.1" />
@@ -11,6 +10,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path_provider_linux-2.2.1" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path_provider_foundation-2.3.1" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player_avfoundation-2.5.0" />
+      <root url="file://$USER_HOME$/.pub-cache/git/photoManager-d981f0271c80163736085d66fe0be685ecf4c951" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

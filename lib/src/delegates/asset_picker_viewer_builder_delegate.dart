@@ -48,7 +48,7 @@ abstract class AssetPickerViewerBuilderDelegate<Asset, Path> {
 
   /// Assets provided to preview.
   /// 提供预览的资源
-  final List<Asset> previewAssets;
+  List<Asset> previewAssets;
 
   /// Theme for the viewer.
   /// 主题
@@ -56,7 +56,7 @@ abstract class AssetPickerViewerBuilderDelegate<Asset, Path> {
 
   /// Selected assets.
   /// 已选的资源
-  final List<Asset>? selectedAssets;
+  List<Asset>? selectedAssets;
 
   /// Provider for [AssetPicker].
   /// 资源选择器的状态保持
